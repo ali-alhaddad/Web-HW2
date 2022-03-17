@@ -2,7 +2,7 @@ body {
   background-color: bisque;
 }
 
-@import url("https://fonts.googleapis.com/css2?family=BhuTuka+Expanded+One&display=swap%22");
+@import url("https://fonts.googleapis.com/css2?family=BhuTuka+Expanded+One&display=swap%222");
 * {
   margin: 0;
   padding: 0;
@@ -68,6 +68,7 @@ body {
   padding: 40px;
   background: #fff;
 }
+
 .contactForm h2 {
   font-size: 30px;
   color: #333;
@@ -138,7 +139,6 @@ body {
     width: 100%;
   }
 }
-/* rgb(61, 42, 17) */
 .www {
   background-color: rgb(165, 127, 105);
   text-align: center;
@@ -153,16 +153,15 @@ h1 {
   margin: auto;
   display: flex;
   justify-content: center;
-  /* justify-content: space-between; /
+  /* justify-content: space-between; */
   flex-direction: column;
-  / margin: 270px;
-  margin-top: 25px; /
-  / flex-wrap: wrap; /
-  / gap: 30px; /
+  /* margin: 270px; */
+  /* margin-top: 25px; */
+  /* flex-wrap: wrap; */
+  /* gap: 30px; */
   align-items: center;
   perspective: 1000px;
 }
-
 img {
   width: 120px;
   height: 80px;
@@ -176,8 +175,8 @@ img {
 h4 {
   color: rgb(228, 193, 119);
   font-size: 20px;
-  / width: 50px;
-  height: 50px; /
+  /* width: 50px; */
+  /* height: 50px;  */
   margin-right: 20px;
   font-size: 25px;
   box-shadow: 1px 2px 5px rgb(255, 255, 255);
@@ -196,8 +195,8 @@ h4 {
 
 .Ab {
   background-color: rgb(165, 127, 105);
-  / width: 250px; /
-  / height: 250px; */
+  /* width: 250px; */
+  /* height: 250px; */
 
   border-radius: 50%;
   box-shadow: 10px 10px 5px rgb(255, 255, 255);
